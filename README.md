@@ -3,8 +3,7 @@
 I studied Multimedia Design but I consider myself a self-taught designer and aspiring front-end developer.
 I’m constantly learning and looking for new experiences to grow both as a professional and as a human being.
 
-[More about me](https://sigurdarson.is/about)
-
+[More about me &rarr;](https://sigurdarson.is/about) <br />
 [Check out my website](https://sigurdarson.is)
 
 <!--
