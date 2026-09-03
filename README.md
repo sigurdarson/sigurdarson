@@ -31,7 +31,7 @@ Occasional notes on design systems, development, and working with AI agents at
 
 ### Elsewhere
 
-[sigurdarson.is](https://sigurdarson.is) · [X](https://x.com/gsigurdarson) · [Unsplash](https://unsplash.com/@sigurdarson)
+[sigurdarson.is](https://sigurdarson.is) · [X](https://x.com/gsigurdarson) · [Dribbble](https://dribbble.com/sigurdarson) · [Unsplash](https://unsplash.com/@sigurdarson)
 
 Always up for talking with like minded people about design, engineering, and
 whatever you happen to be building. Pick a time that suits you and
